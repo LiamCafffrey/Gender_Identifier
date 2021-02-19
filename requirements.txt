@@ -6,8 +6,13 @@ wheel>=0.29
 
 # data science
 numpy
+scipy
 pandas
+matplotlib
 scikit-learn
+pandas
+jupyter 
+sklearn
 
 # tests/linter
 black
